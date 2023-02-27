@@ -24,4 +24,3 @@ File 100-primeFactor.c is a program that finds and prints the largest prime fact
 
 File 101-printNumber.c is a function that prints an integer using only _putchar().
 
-File _putchar.c contains the _putchar() function definition.
